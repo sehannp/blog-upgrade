@@ -1,10 +1,17 @@
 ---
-title: Vaporwave
-date: "2019-11-11"
-tags: [vaporwave,retrowave,future-funk]
-description: I think the most trendy is the oldest. Vaporwave is an Internet-based microgenre that was built upon the experimental and ironic tendencies of genres such as chillwave and hypnagogic pop.
+title: Introduction
+date: "2020-02-20"
+tags: [intro]
+description: Helloo ! I am Sehan Pushparaja, a budding developer who aspires to build impactful fullstack applications. You can easilly distract me when you talk about JavaScript, Node, SAS, Machine Learning, AWS, Art and Food'
 ---
 
-It draws primarily on musical and cultural sources from the 1980s and early 1990s while also being associated with an ambiguous or satirical take on consumer capitalism and technoculture. Early incarnations of vaporwave relied on the sampling of sources such as Japanese city pop, smooth jazz, retro elevator music, R&B, lounge music, and dance music from the 1980s and 1990s.
+Helloo ! I am Sehan Pushparaja, a budding developer who aspires to build impactful fullstack applications. You can easilly distract me when you talk about JavaScript, Node, SAS, Machine Learning, AWS, Art and Food. I know, its a weird combination. But everything wonderful in life is weird at first. Isnt't it?
+I plan to use this blog to share my ideas, learnings, art work and everything in life that interests this developer.
+Head over to About Page to learn more about me or use the Tags Section to filter out the articles that interest you.
+I will be adding more features to this site, more content progressively. 
+You can contact me through linkedIn or email : sehanp@gmail.com
+
+P.S: Thanks for vaporwavy for sharing their idea of this Gatsbyjs blog. It was helpful to get a fast start.
+And now its my time to contribute to this wonderful society.
 
 * See the [Wikipedia](https://en.wikipedia.org/wiki/Vaporwave) for more information.
